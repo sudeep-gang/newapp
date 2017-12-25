@@ -1,2 +1,3 @@
-# **This is m y fisrt program   **
+# **This is my fisrt program   **
+# **This is 2nd progam **
 
