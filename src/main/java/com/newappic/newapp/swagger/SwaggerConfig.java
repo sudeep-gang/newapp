@@ -16,6 +16,11 @@ import static springfox.documentation.builders.PathSelectors.regex;
 public class SwaggerConfig {
 
 	
+	/**
+	 * 
+	 * 
+	 * @return
+	 */
 	@Bean
 	public Docket swaggerPersonApi() {
 		
